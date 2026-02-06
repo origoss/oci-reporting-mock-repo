@@ -1,0 +1,3 @@
+loader_type: "xml"
+file_path: "files/first-xml-mock.xml"
+user: "oci-reporting-mock-sql-user"

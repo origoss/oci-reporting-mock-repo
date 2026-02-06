@@ -1,0 +1,3 @@
+loader_type: "sqlplus"
+file_path: "files/first-sql-mock.xml"
+user: "oci-reporting-mock-sql-user"
