@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SunopsisExport>
+  <ExportHeader>
+    <ExportType>SMART</ExportType>
+    <ExportDate>2026-02-04</ExportDate>
+  </ExportHeader>
+
+  <SmartExportList>
+    <ObjectRef>
+      <ObjectType>VARIABLE</ObjectType>
+      <ObjectName>OCI_REPORTING_MOCK_VAR_2</ObjectName>
+    </ObjectRef>
+  </SmartExportList>
+
+  <Objects>
+    <Object>
+      <ObjectType>VARIABLE</ObjectType>
+      <Fields>
+        <Field name="I_NAME">OCI_REPORTING_MOCK_VAR_2</Field>
+        <Field name="I_DESC">Dummy variable for oci-reporting-mock-repo, should be loaded 2nd</Field>
+        <Field name="I_DEF_VALUE">300</Field>
+        <Field name="I_ENABLED">1</Field>
+        <Field name="I_CREATED_BY">IMPORT_TEST_REPORTING</Field>
+        <Field name="I_UPDATED_BY">IMPORT_TEST_REPORTING</Field>
+      </Fields>
+    </Object>
+  </Objects>
+</SunopsisExport>
