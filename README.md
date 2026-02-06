@@ -10,3 +10,4 @@ This is a repository simulating an oci-reporting repository.
 
 `loader_type`: describes the intended way to load the files (e.g.: `xml`, `sqlplus`, `sqlcl`)
 `file_path`: relative path leading to the loadable file (e.g: `files/file.xml`)
+`user`: sql user to use for importing
